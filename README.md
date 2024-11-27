@@ -6,7 +6,8 @@
 ![dashboard snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/admin_dashboard.png?raw=true)
 ### Invoice
 ![invoice snap](https://github.com/sumitkumar1503/hospitalmanagement/blob/master/static/screenshots/invoice.png?raw=true)
-
+### Doctor HomePage
+![Doctor Snap](https://github.com/arvindfoujdar/Hospital-Management-Portal/blob/85ad47beee1ac82123d17e37b5caf3663813f542/static/screenshots/admin_doctor.png)
 ---
 ## Functions
 ### Admin
